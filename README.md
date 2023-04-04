@@ -2,7 +2,7 @@
 EdeepSADPr: An extensive deep-learning architecture for prediction of the in situ crosstalks of serine phosphorylation and ADP-ribosylation
 
 
-Online ResSUMO service
+Online EdeepSADPr service
 =========
     http://edeepsadpr.bioinfogo.org
 
